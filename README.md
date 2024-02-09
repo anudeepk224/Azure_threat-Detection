@@ -1,10 +1,9 @@
 Automated ATT&CK Defense: Sysmon & Azure Integration 
 
 # Project Proponent
-Name: Kaushikq Ravindran <br />
+Name: Anudeep Goud Kotagiri <br />
 Program: Masters in Software Engineering <br />
 Institution: San Jose State University <br />
-Portfolio: https://kaushikq-ravindran.github.io
 
 # Project Scope
 This project provides a detailed exploration of deploying and managing Azure Sentinel, an advanced SIEM system, integrated with Sysmon data collection, all within an automated infrastructure provisioned using Terraform. It simulates a security operations workflow for detecting, investigating, and responding to cyber threats.
